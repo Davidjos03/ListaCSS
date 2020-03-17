@@ -1,0 +1,27 @@
+li{
+    list-style-type: none;
+    font-size: 12px;
+    font-family: Verdana;
+    color: red;
+    border-bottom: 1px dotted red ;
+}
+
+ul li:before {
+    content: "\2192";
+    color: red;
+    }
+
+    div{
+        width: 300px;
+    }
+
+    li:hover{
+        border-bottom: 1px dotted green ;
+    }
+    
+    ul:hover li:before{
+        content: "\2192";
+        color: green;
+        }
+    
+    

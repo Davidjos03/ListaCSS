@@ -1,0 +1,26 @@
+.todo{
+    width: 700px;
+}
+
+.div{
+    width: 200px;
+    position:relative;
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    
+}
+.a{
+    text-decoration: none;
+}
+
+
+
+.div:hover{
+    border: 1px red;
+    width: 200px;
+    position:relative;
+    float: left;
+    text-decoration: underline;
+
+}

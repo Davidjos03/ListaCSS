@@ -1,0 +1,22 @@
+
+.left_corpo .restaurantes{
+    position: absolute;
+    height: 30%;
+    opacity: 1;
+    z-index:1;
+    width: 17%;
+    margin-left: 15%;
+    margin-top: 12%;
+    cursor: pointer;
+}
+.left_corpo .restaurantes_hover{
+    position: absolute;
+    height: 30%;
+    width: 17%;
+    margin-left: 15%;
+    padding-top: 12%;
+    cursor: pointer;
+}
+.restaurantes:hover {
+    opacity:0;
+}

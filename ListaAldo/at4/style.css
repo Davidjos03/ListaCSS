@@ -1,0 +1,74 @@
+#todo{
+    border: 6px solid;
+    border-color:dodgerblue;
+    height: 80px;
+    width: 750px;
+}
+
+img{
+    position: relative;
+    float: left;
+}
+
+#text1{
+    position: relative;
+    float: left;
+    margin-left: 30px;
+    color: red;
+}
+
+#text2{
+    position: relative;
+    float: left;
+    margin-left: 30px;
+    color: green;
+}
+
+#text3{
+    position: relative;
+    float: left;
+    margin-left: 30px;
+    color: orange;
+}
+
+
+#text4{
+    position: relative;
+    float: left;
+    margin-left: 30px;
+    color: blue;
+}
+
+#text1:hover{
+    position: relative;
+    float: left;
+    margin-left: 30px;
+    color: red;
+    text-decoration: overline;
+}
+
+#text2:hover{
+    position: relative;
+    float: left;
+    margin-left: 30px;
+    color: green;
+    text-decoration: overline;
+}
+
+#text3:hover{
+    position: relative;
+    float: left;
+    margin-left: 30px;
+    color: orange;
+    text-decoration: overline;
+}
+
+
+#text4:hover{
+    position: relative;
+    float: left;
+    margin-left: 30px;
+    color: blue;
+    text-decoration: overline;
+}
+
